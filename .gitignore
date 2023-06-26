@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# Visual Studio Code files
+.vscode
+
+# Resulting executable file
+
+skillmaster
