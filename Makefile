@@ -1,5 +1,5 @@
 CC = gcc
-CCFLAGS = -Wall -Werror -g
+CCFLAGS = -Wall -Werror -lm -g
 OUTPUT = skillmaster
 SRCDIR =
 
